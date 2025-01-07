@@ -274,7 +274,10 @@ form {
  .btn:hover {
     background-color: #9703d1;
  }
-
+ 
+ p {
+    color: #d0b2f1;
+ }
  
 
  @media (min-width: 390px) {
